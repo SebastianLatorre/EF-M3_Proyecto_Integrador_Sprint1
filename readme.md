@@ -4,6 +4,7 @@
 
 **(Entregable al final del Módulo 3)**
 
+Probar el buscador usando: **papas**, **harina**, **italia**, **españa**, **hornear**, ...
 https://sebastianlatorre.github.io/EF-M3_Proyecto_Integrador_Sprint1/
 
 ## Briefing del Cliente: "Gourmet Go"
