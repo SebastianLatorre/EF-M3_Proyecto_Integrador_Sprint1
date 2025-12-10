@@ -4,6 +4,8 @@
 
 **(Entregable al final del Módulo 3)**
 
+https://sebastianlatorre.github.io/EF-M3_Proyecto_Integrador_Sprint1/
+
 ## Briefing del Cliente: "Gourmet Go"
 
 ¡Bienvenido al equipo! Nuestro cliente, Gourmet Go, nos ha encargado la creación de una nueva aplicación web: el "Buscador de Recetas". Antes de desarrollar la lógica y conectar la aplicación a servicios externos, el cliente necesita aprobar un prototipo visual de alta fidelidad.
