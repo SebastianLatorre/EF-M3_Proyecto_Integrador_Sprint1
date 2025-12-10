@@ -1,0 +1,29 @@
+/* Estilos para el modal de recetas */
+#modal-imagen {
+    max-height: 400px;
+    object-fit: cover;
+    width: 100%;
+}
+
+#modal-ingredientes {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+#modal-ingredientes li {
+    margin-bottom: 8px;
+}
+
+#modal-instrucciones {
+    line-height: 1.8;
+    text-align: justify;
+}
+
+.modal-body {
+    max-height: 70vh;
+}
+
+/* Mejorar el cursor en los botones de ver receta */
+.ver-receta-btn {
+    cursor: pointer;
+}
